@@ -1,0 +1,6 @@
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMEntities\bin\Debug\TecGurusBasicUAMEntities.dll
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMEntities\bin\Debug\TecGurusBasicUAMEntities.pdb
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMEntities\obj\Debug\TecGurusBasicUAMEntities.csproj.AssemblyReference.cache
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMEntities\obj\Debug\TecGurusBasicUAMEntities.csproj.CoreCompileInputs.cache
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMEntities\obj\Debug\TecGurusBasicUAMEntities.dll
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMEntities\obj\Debug\TecGurusBasicUAMEntities.pdb

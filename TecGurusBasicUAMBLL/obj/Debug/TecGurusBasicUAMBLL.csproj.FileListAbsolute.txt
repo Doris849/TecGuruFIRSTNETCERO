@@ -1,0 +1,5 @@
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMBLL\bin\Debug\TecGurusBasicUAMBLL.dll
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMBLL\bin\Debug\TecGurusBasicUAMBLL.pdb
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMBLL\obj\Debug\TecGurusBasicUAMBLL.csproj.CoreCompileInputs.cache
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMBLL\obj\Debug\TecGurusBasicUAMBLL.dll
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMBLL\obj\Debug\TecGurusBasicUAMBLL.pdb

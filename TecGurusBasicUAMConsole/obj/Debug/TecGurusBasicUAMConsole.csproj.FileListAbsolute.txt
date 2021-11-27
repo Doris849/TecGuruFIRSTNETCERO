@@ -1,0 +1,11 @@
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMConsole\bin\Debug\TecGurusBasicUAMConsole.exe.config
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMConsole\bin\Debug\TecGurusBasicUAMConsole.exe
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMConsole\bin\Debug\TecGurusBasicUAMConsole.pdb
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMConsole\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMConsole\bin\Debug\itextsharp.dll
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMConsole\bin\Debug\itextsharp.xml
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMConsole\obj\Debug\TecGurusBasicUAMConsole.csproj.AssemblyReference.cache
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMConsole\obj\Debug\TecGurusBasicUAMConsole.csproj.CoreCompileInputs.cache
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMConsole\obj\Debug\TecGurusBasicUAMConsole.csproj.CopyComplete
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMConsole\obj\Debug\TecGurusBasicUAMConsole.exe
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMConsole\obj\Debug\TecGurusBasicUAMConsole.pdb

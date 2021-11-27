@@ -1,0 +1,16 @@
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\bin\Debug\TecGurusBasicUAMPL.exe.config
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\bin\Debug\TecGurusBasicUAMPL.exe
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\bin\Debug\TecGurusBasicUAMPL.pdb
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\bin\Debug\TecGurusBasicUAMBLL.dll
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\bin\Debug\TecGurusBasicUAMEntities.dll
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\bin\Debug\TecGurusBasicUAMBLL.pdb
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\bin\Debug\TecGurusBasicUAMEntities.pdb
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\obj\Debug\TecGurusBasicUAMPL.csproj.AssemblyReference.cache
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\obj\Debug\TecGurusBasicUAMPL.Form1.resources
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\obj\Debug\TecGurusBasicUAMPL.Properties.Resources.resources
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\obj\Debug\TecGurusBasicUAMPL.csproj.GenerateResource.cache
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\obj\Debug\TecGurusBasicUAMPL.csproj.CoreCompileInputs.cache
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\obj\Debug\TecGurusBasicUAMPL.exe
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\obj\Debug\TecGurusBasicUAMPL.pdb
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\obj\Debug\TecGurusBasicUAMPL.Tarea1.CalculadoraFRM.resources
+C:\Users\dmartinez\source\repos\TecGurusBasicUAM\TecGurusBasicUAMPL\obj\Debug\TecGurusBasicUAMPL.csproj.CopyComplete
